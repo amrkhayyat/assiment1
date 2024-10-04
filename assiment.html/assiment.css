@@ -1,0 +1,51 @@
+body{
+    background-color:rgb(255, 249, 170) ;.
+      
+    
+    }
+    
+    
+    #name{
+    
+        width: 800px;
+        background-color : bisque;
+            margin-left: auto ;
+            margin-right: auto;
+    
+    }
+    #one{
+        width: 600px;
+        background-color :azure;
+            margin-left: auto ;
+            margin-right: auto;
+    
+    
+    }
+    #form{
+    
+        width: 500px;
+        background-color :burlywood;
+            margin-left: auto ;
+            margin-right: auto;
+    
+    
+    }
+    #tow{
+    
+        width: 500px;
+        background-color :aquamarine;
+            margin-left: auto ;
+            margin-right: auto;
+    
+    }
+    div > img {
+        
+        
+        max-width: 200px; /* You can adjust this size as needed */
+        margin-left: 0px;
+    }
+    h1{
+    
+    
+        border-bottom: black 2px solid;
+    }
