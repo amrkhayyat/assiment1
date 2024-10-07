@@ -1,51 +1,30 @@
-body{
-    background-color:rgb(255, 249, 170) ;
-      
-    
-    }
-    
-    
-    #name{
-    
-        width: 800px;
-        background-color : bisque;
-            margin-left: auto ;
-            margin-right: auto;
-    
-    }
-    #one{
-        width: 600px;
-        background-color :azure;
-            margin-left: auto ;
-            margin-right: auto;
-    
-    
-    }
-    #form{
-    
-        width: 500px;
-        background-color :burlywood;
-            margin-left: auto ;
-            margin-right: auto;
-    
-    
-    }
-    #tow{
-    
-        width: 500px;
-        background-color :aquamarine;
-            margin-left: auto ;
-            margin-right: auto;
-    
-    }
-    div > img {
-        
-        
-        max-width: 200px; /* You can adjust this size as needed */
-        margin-left: 0px;
-    }
-    h1{
-    
-    
-        border-bottom: black 2px solid;
-    }
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+background-color: #F0F0F0;
+}
+main article {
+    position: absolute;
+    width: 50%;
+    margin: 100px auto; 
+  background-color: #E0E0E0; 
+    padding: 15px; 
+  }
+  main aside{
+position:absolute ;
+    Width: 30%;
+    Margin: 100px auto;
+    Background-color: #D0D0D0;
+    Padding: 15px;
+ right: 0;
+  }
+  footer{
+    position:fixed ;
+    bottom: 0;
+  
+    background-color: #C0C0C0;
+    padding: 10px;
+  }
